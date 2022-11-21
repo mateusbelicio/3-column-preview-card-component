@@ -42,7 +42,7 @@
   /* DECLARING USEFUL VARIABLES */
 
   /* Body */
-  --clr-body: var(--clr-neutral-500);
+  --clr-body: var(--clr-neutral-400);
   --ff-body: var(--ff-primary);
   --fs-body: var(--fs-300);
 
