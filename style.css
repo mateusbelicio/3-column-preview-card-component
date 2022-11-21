@@ -15,7 +15,7 @@
 
   /* Font Family */
   --ff-primary: 'Lexend Deca', sans-serif;
-  --ff-secondary: 'Big Shoulders Display', cursive;
+  --ff-secondary: 'Big Shoulders Display', sans-serif;
 
   /* Font Size */
   --fs-100: 0.625rem;
@@ -229,7 +229,7 @@ body {
   .cards {
     grid-auto-flow: column;
     grid-auto-columns: 1fr;
-    height: 500px;
+    height: 31.25px;
   }
 
   .card {
