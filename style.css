@@ -229,7 +229,7 @@ body {
   .cards {
     grid-auto-flow: column;
     grid-auto-columns: 1fr;
-    height: 31.25px;
+    min-height: 31.25rem;
   }
 
   .card {
