@@ -1,5 +1,5 @@
-<div class="header flex">
-  <h2>Frontend Mentor - 3-column preview card component solution</h2>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <h2 style="border: none;">Frontend Mentor - 3-column preview card component solution</h2>
   <img src="https://www.frontendmentor.io/static/images/logo-mobile.svg" alt="Frontendmentor icon">
 </div>
 
@@ -41,15 +41,3 @@ Users should be able to:
 
 - Frontend Mentor - [@mateusbelicio](https://www.frontendmentor.io/profile/mateusbelicio)
 - Linkedin - [@mateusbelicio](https://www.linkedin.com/in/mateusbelicio)
-
-<style>
-  .flex {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-  }
-
-  .header h2 {
-    border: none;
-  }
-</style>
