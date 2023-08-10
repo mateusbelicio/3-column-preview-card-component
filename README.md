@@ -1,20 +1,18 @@
-# Frontend Mentor - 3-column preview card component solution
+<div class="header flex">
+  <h2>Frontend Mentor - 3-column preview card component solution</h2>
+  <img src="https://www.frontendmentor.io/static/images/logo-mobile.svg" alt="Frontendmentor icon">
+</div>
 
-![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)
+This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-).
+<!-- ![My Profile](https://img.shields.io/badge/Status-building-blue?style=flat) -->
+![My Profile](https://img.shields.io/badge/Status-finished-green?style=flat)
+&dot;
+[![Status](https://img.shields.io/website?label=Website&down_color=inactive&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmateusbelicio.github.io/3-column-preview-card-component)](https://mateusbelicio.github.io/3-column-preview-card-component) 
+&dot;
+[![My Profile](https://img.shields.io/badge/Profile-Mateus_Belicio-282C2E?style=flat&logo=frontendmentor)](https://www.frontendmentor.io/profile/mateusbelicio)
 
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
-
-## Overview
+---
 
 ### The challenge
 
@@ -27,12 +25,8 @@ Users should be able to:
 
 ![](./design/desktop-result.png)
 
-### Links
 
-- 🔗 [Solution URL](https://github.com/mateusbelicio/3-column-preview-card-component)
-- 🔗 [Live Site URL](https://mateusbelicio.github.io/3-column-preview-card-component)
-
-## My process
+---
 
 ### Built with
 
@@ -42,6 +36,20 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-## Author
+---
+### Author
 
 - Frontend Mentor - [@mateusbelicio](https://www.frontendmentor.io/profile/mateusbelicio)
+- Linkedin - [@mateusbelicio](https://www.linkedin.com/in/mateusbelicio)
+
+<style>
+  .flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .header h2 {
+    border: none;
+  }
+</style>
